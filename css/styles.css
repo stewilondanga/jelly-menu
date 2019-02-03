@@ -168,10 +168,11 @@ svg {
   fill: hsl(0, 0%, 92%);
 }
 
-/*.circles:hover svg {
-	fill: hsl(0, 0%, 100%);
+.circles:hover svg {
+  fill: hsl(0, 0%, 100%);
 }
-.main-icons {
+
+/*.main-icons {
 	fill: rgb(255, 255, 255);
 	width: 50px;
 	height: 50px;
