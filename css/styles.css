@@ -62,16 +62,16 @@ svg {
   width: 0;
 }
 
-/*.circle-styles {
-	position: absolute;
-	width: 90px;
-	height: 90px;
-	transform: translate(0, -48px);
-	background: hsl(337, 70%, 58%);
-	clip-path: circle(42px at center);
+.circle-styles {
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  transform: translate(0, -48px);
+  background: hsl(337, 70%, 58%);
+  clip-path: circle(42px at center);
 }
 
-.circle-styles:nth-child(1) span {
+/*.circle-styles:nth-child(1) span {
 	width: 35px;
 	height: 5px;
 	background: rgb(255, 255, 255);
