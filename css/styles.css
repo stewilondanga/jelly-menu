@@ -28,16 +28,14 @@ body {
   height: 1.5em;
 }
 
-/*
-
-
 .container {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
 }
-.blobs {
+
+/*.blobs {
 	display: flex;
 	justify-content: center;
 	align-items: center;
