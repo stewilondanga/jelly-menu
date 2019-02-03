@@ -9,6 +9,10 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  height: 99vh;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -34,9 +38,6 @@ html {
 
 
 
-body {
-	height: 99vh;
-}
 
 .container {
 	display: flex;
