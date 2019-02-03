@@ -94,11 +94,12 @@ svg {
   background: hsl(307, 70%, 58%);
 }
 
-/*.second {
-	transition: transform 0.5s 300ms ease-out;
-	background: hsl(277, 70%, 58%);
+.second {
+  transition: transform 0.5s 300ms ease-out;
+  background: hsl(277, 70%, 58%);
 }
-.last {
+
+/*.last {
 	transition: transform 0.5s 500ms ease-out;
 	background: hsl(247, 70%, 58%);
 }
