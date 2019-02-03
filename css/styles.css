@@ -178,12 +178,13 @@ svg {
   height: 50px;
 }
 
-/*.center {
-	display: flex;
-	align-items: center;
-	justify-content: center;
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.move-left {
+
+/*.move-left {
 	transform: translate(-20px, 0px);
 }
 .move-right {
