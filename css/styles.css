@@ -89,12 +89,12 @@ svg {
   justify-content: center;
 }
 
-/*.first {
-	transition: transform 0.5s 100ms ease-out;
-	background: hsl(307, 70%, 58%);
+.first {
+  transition: transform 0.5s 100ms ease-out;
+  background: hsl(307, 70%, 58%);
 }
 
-.second {
+/*.second {
 	transition: transform 0.5s 300ms ease-out;
 	background: hsl(277, 70%, 58%);
 }
