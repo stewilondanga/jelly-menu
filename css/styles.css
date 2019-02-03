@@ -79,10 +79,11 @@ svg {
   border-radius: 15px;
 }
 
-/*.circle-styles:nth-child(1) span:nth-child(2) {
-	transform: rotate(90deg);
+.circle-styles:nth-child(1) span:nth-child(2) {
+  transform: rotate(90deg);
 }
-.circle-styles:nth-child(1) {
+
+/*.circle-styles:nth-child(1) {
 	display: flex;
 	align-items: center;
 	justify-content: center;
