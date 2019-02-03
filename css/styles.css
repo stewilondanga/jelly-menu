@@ -104,10 +104,11 @@ svg {
   background: hsl(247, 70%, 58%);
 }
 
-/*.first.show {
-	transform: translate(-100px, -120px);
+.first.show {
+  transform: translate(-100px, -120px);
 }
-.second.show {
+
+/*.second.show {
 	transform: translate(0px, -150px);
 }
 .last.show {
