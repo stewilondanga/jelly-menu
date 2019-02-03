@@ -163,11 +163,12 @@ svg {
   fill: hsla(0, 0%, 67%, 0.534);
 }
 
-/*.circles svg {
-	transition: fill 0.3s ease-out;
-	fill: hsl(0, 0%, 92%);
+.circles svg {
+  transition: fill 0.3s ease-out;
+  fill: hsl(0, 0%, 92%);
 }
-.circles:hover svg {
+
+/*.circles:hover svg {
 	fill: hsl(0, 0%, 100%);
 }
 .main-icons {
