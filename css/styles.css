@@ -151,14 +151,15 @@ svg {
   align-items: center;
 }
 
-/*.icons svg {
-	width: 45px;
-	height: 45px;
-	margin: 30px;
-	fill: hsl(0, 0%, 52%);
-	transition: fill 0.5s ease-out;
+.icons svg {
+  width: 45px;
+  height: 45px;
+  margin: 30px;
+  fill: hsl(0, 0%, 52%);
+  transition: fill 0.5s ease-out;
 }
-.icons svg.colorchange {
+
+/*.icons svg.colorchange {
 	fill: hsla(0, 0%, 67%, 0.534);
 }
 .circles svg {
