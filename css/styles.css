@@ -140,11 +140,11 @@ svg {
   transform: rotate(45deg);
 }
 
-/*.main-circle {
-	z-index: 2;
+.main-circle {
+  z-index: 2;
 }
 
-.icons {
+/*.icons {
 	height: 100%;
 	display: flex;
 	justify-content: space-around;
