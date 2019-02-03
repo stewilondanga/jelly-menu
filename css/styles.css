@@ -83,13 +83,13 @@ svg {
   transform: rotate(90deg);
 }
 
-/*.circle-styles:nth-child(1) {
-	display: flex;
-	align-items: center;
-	justify-content: center;
+.circle-styles:nth-child(1) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.first {
+/*.first {
 	transition: transform 0.5s 100ms ease-out;
 	background: hsl(307, 70%, 58%);
 }
