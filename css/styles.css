@@ -3,6 +3,12 @@ html {
   background-color: #d8d8d8;
 }
 
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -27,11 +33,6 @@ html {
 }
 
 
-*,
-*:before,
-*:after {
-	box-sizing: inherit;
-}
 
 body {
 	height: 99vh;
