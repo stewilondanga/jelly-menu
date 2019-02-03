@@ -136,11 +136,11 @@ svg {
   opacity: 0;
 }
 
-/*.cross.show {
-	transform: rotate(45deg);
+.cross.show {
+  transform: rotate(45deg);
 }
 
-.main-circle {
+/*.main-circle {
 	z-index: 2;
 }
 
