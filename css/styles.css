@@ -172,13 +172,13 @@ svg {
   fill: hsl(0, 0%, 100%);
 }
 
-/*.main-icons {
-	fill: rgb(255, 255, 255);
-	width: 50px;
-	height: 50px;
+.main-icons {
+  fill: rgb(255, 255, 255);
+  width: 50px;
+  height: 50px;
 }
 
-.center {
+/*.center {
 	display: flex;
 	align-items: center;
 	justify-content: center;
