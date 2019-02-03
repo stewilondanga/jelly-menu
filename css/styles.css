@@ -99,11 +99,12 @@ svg {
   background: hsl(277, 70%, 58%);
 }
 
-/*.last {
-	transition: transform 0.5s 500ms ease-out;
-	background: hsl(247, 70%, 58%);
+.last {
+  transition: transform 0.5s 500ms ease-out;
+  background: hsl(247, 70%, 58%);
 }
-.first.show {
+
+/*.first.show {
 	transform: translate(-100px, -120px);
 }
 .second.show {
