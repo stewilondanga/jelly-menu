@@ -1,13 +1,13 @@
 var navigate = (function() {
-	$('.dd').toggle();
-	$('.dd_btn').click(function() {
-		var dataName = $(this).attr('data-name');
-		$('.dd').hide();
-		$('.' + dataName).toggle();
-	});
+  $('.dd').toggle();
+  $('.dd_btn').click(function() {
+    var dataName = $(this).attr('data-name');
+    $('.dd').hide();
+    $('.' + dataName).toggle();
+  });
 })();
 
-const button = document.querySelector(".main-circle");
+/*const button = document.querySelector(".main-circle");
 const circles = document.querySelectorAll(".circles");
 const cross = document.querySelector(".cross");
 const crossbg = document.querySelector(".bg");
