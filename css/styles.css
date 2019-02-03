@@ -188,11 +188,11 @@ svg {
   transform: translate(-20px, 0px);
 }
 
-/*.move-right {
-	transform: translate(20px, 0px);
+.move-right {
+  transform: translate(20px, 0px);
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
