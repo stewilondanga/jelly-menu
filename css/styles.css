@@ -35,18 +35,19 @@ body {
   height: 100%;
 }
 
-/*.blobs {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	filter: url(#goo);
-	position: absolute;
-	top: 0;
-	left: 0;
-	bottom: 0;
-	right: 0;
+.blobs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  filter: url(#goo);
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
 }
-.box {
+
+/*.box {
 	height: 100px;
 	width: 550px;
 	background: #ececec;
