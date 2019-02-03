@@ -108,10 +108,11 @@ svg {
   transform: translate(-100px, -120px);
 }
 
-/*.second.show {
-	transform: translate(0px, -150px);
+.second.show {
+  transform: translate(0px, -150px);
 }
-.last.show {
+
+/*.last.show {
 	transform: translate(100px, -120px);
 }
 .cross {
