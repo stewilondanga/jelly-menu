@@ -57,12 +57,12 @@ body {
   z-index: -1;
 }
 
-/*svg {
-	height: 0;
-	width: 0;
+svg {
+  height: 0;
+  width: 0;
 }
 
-.circle-styles {
+/*.circle-styles {
 	position: absolute;
 	width: 90px;
 	height: 90px;
