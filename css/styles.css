@@ -184,10 +184,11 @@ svg {
   justify-content: center;
 }
 
-/*.move-left {
-	transform: translate(-20px, 0px);
+.move-left {
+  transform: translate(-20px, 0px);
 }
-.move-right {
+
+/*.move-right {
 	transform: translate(20px, 0px);
 }
 
